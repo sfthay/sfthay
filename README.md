@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Thaynara Maciel.
-- 👀 Estou em transição de carreiras e tenho interesse em atuar como desenvolvedora front-end.
-- 🌱 Atualmente estou estudando HTML, CSS e Javascript.
+- 👋 Hello, my name is Thaynara Maciel.
+- 👀 I'm changing career paths, studying to become a good front-end developer.
+- 🌱 I'm currently following a front-end roadmap, studying HTML, CSS, Javascript, Vue and more.
 - 📫 www.linkedin.com/in/thaynara-maciel
 
 <!---
